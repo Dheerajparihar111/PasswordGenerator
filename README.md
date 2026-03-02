@@ -43,3 +43,5 @@ PasswordGenerator/
 └── PasswordStrengthChecker.java
 ▶️ How to Run
 1️⃣ Clone the Repository
+https://github.com/Dheerajparihar111/PasswordGenerator
+output : <img width="1915" height="1025" alt="PasswordGenerator output 1" src="https://github.com/user-attachments/assets/1c05219d-655f-48bf-8fab-f10384f862e5" />
