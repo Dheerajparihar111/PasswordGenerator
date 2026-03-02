@@ -11,16 +11,16 @@ public class Main {
         System.out.print("Enter password length: ");
         int length = scanner.nextInt();
 
-        System.out.print("Include Uppercase letters? (true/false): ");
+        System.out.print("* Include Uppercase letters? (true/false): ");
         boolean useUpper = scanner.nextBoolean();
 
-        System.out.print("Include Lowercase letters? (true/false): ");
+        System.out.print("* Include Lowercase letters? (true/false): ");
         boolean useLower = scanner.nextBoolean();
 
-        System.out.print("Include Numbers? (true/false): ");
+        System.out.print("* Include Numbers? (true/false): ");
         boolean useNumbers = scanner.nextBoolean();
 
-        System.out.print("Include Special Characters? (true/false): ");
+        System.out.print("* Include Special Characters? (true/false): ");
         boolean useSpecial = scanner.nextBoolean();
 
         PasswordGenerator generator = new PasswordGenerator(
